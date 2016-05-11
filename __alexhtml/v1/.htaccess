@@ -1,0 +1,59 @@
+# Activar RewriteEngine
+RewriteEngine on
+RewriteBase /
+
+# REGLAS
+RewriteRule ^Index/?$ index.php [L]
+RewriteRule ^Index/(\w+)/?$ index.php?lang=$1 [L]
+
+RewriteRule ^Cruceros/(\w+)/?$ cruceros.php?lang=$1 [L]
+RewriteRule ^Cruceros/(\w+)/(\w+)/?$ cruceros.php?lang=$1&cod=$2 [L]
+RewriteRule ^Cruceros/(\w+)/(\w+)/(\w+)/?$ cruceros.php?lang=$1&cod=$2&nom=$3 [L]
+
+RewriteRule ^Crucero/(\w+)/(\w+)/(\w+)/?$ crucero.php?lang=$1&cod=$2&id=$3 [L]
+RewriteRule ^Crucero/(\w+)/(\w+)/(\w+)/(\w+)/?$ crucero.php?lang=$1&cod=$2&id=$3&nom=$4  [L]
+
+RewriteRule ^Buque/(\w+)/(\w+)/(\w+)/?$ buque.php?lang=$1&cod=$2&id=$3 [L]
+RewriteRule ^Buque/(\w+)/(\w+)/(\w+)/(\w+)/?$ buque.php?lang=$1&cod=$2&id=$3&nom=$4 [L]
+RewriteRule ^Buque/(\w+)/(\w+)/(\w+)/(\w+)/(\w+)/?$ buque.php?lang=$1&cod=$2&id=$3&nav=$4&nom=$5  [L]
+
+RewriteRule ^Noticias/?$ noticias.php [L]
+RewriteRule ^Noticias/(\w+)/?$ noticias.php?lang=$1 [L]
+RewriteRule ^Noticias/(\w+)/(\w+)/?$ noticias.php?lang=$1&cod=$2 [L]
+RewriteRule ^Noticias/(\w+)/(\w+)/(\w+)/?$ noticias.php?lang=$1&cod=$2&nom=$3 [L]
+
+RewriteRule ^Faqs/?$ faqs.php [L]
+RewriteRule ^Faqs/(\w+)/?$ faqs.php?lang=$1 [L]
+RewriteRule ^Faqs/(\w+)/(\w+)/?$ faqs.php?lang=$1&cod=$2 [L]
+RewriteRule ^Faqs/(\w+)/(\w+)/(\w+)/?$ faqs.php?lang=$1&cod=$2&nom=$3  [L]
+
+RewriteRule ^Opiniones/?$ opiniones.php [L]
+RewriteRule ^Opiniones/(\w+)/?$ opiniones.php?lang=$1 [L]
+RewriteRule ^Opiniones/(\w+)/(\w+)/?$ opiniones.php?lang=$1&cod=$2 [L]
+RewriteRule ^Opiniones/(\w+)/(\w+)/(\w+)/?$ opiniones.php?lang=$1&cod=$2&nom=$3  [L]
+RewriteRule ^Opiniones/(\w+)/(\w+)/(\w+)/(\w+)/?$ opiniones.php?lang=$1&cod=$2&id=$3&nom=$4  [L]
+
+RewriteRule ^Quienes_somos/?$ quienes_somos.php [L]
+RewriteRule ^Quienes_somos/(\w+)/?$ quienes_somos.php?lang=$1 [L]
+RewriteRule ^Quienes_somos/(\w+)/(\w+)/?$ quienes_somos.php?lang=$1&cod=$2 [L]
+RewriteRule ^Quienes_somos/(\w+)/(\w+)/(\w+)/?$ quienes_somos.php?lang=$1&cod=$2&nom=$3 [L]
+
+RewriteRule ^Contactar/?$ contactar.php [L]
+RewriteRule ^Contactar/(\w+)/?$ contactar.php?lang=$1 [L]
+RewriteRule ^Contactar/(\w+)/(\w+)/?$ contactar.php?lang=$1&cod=$2 [L]
+RewriteRule ^Contactar/(\w+)/(\w+)/(\w+)/?$ contactar.php?lang=$1&cod=$2&nom=$3 [L]
+
+RewriteRule ^Registro/?$ registro.php [L]
+RewriteRule ^Registro/(\w+)/?$ registro.php?lang=$1 [L]
+RewriteRule ^Registro/(\w+)/(\w+)/?$ registro.php?lang=$1&cod=$2 [L]
+RewriteRule ^Registro/(\w+)/(\w+)/(\w+)/?$ registro.php?lang=$1&cod=$2&nom=$3 [L]
+
+RewriteRule ^Recuperar/?$ recuperar.php [L]
+RewriteRule ^Recuperar/(\w+)/?$ recuperar.php?lang=$1 [L]
+RewriteRule ^Recuperar/(\w+)/(\w+)/?$ recuperar.php?lang=$1&cod=$2 [L]
+RewriteRule ^Recuperar/(\w+)/(\w+)/(\w+)/?$ recuperar.php?lang=$1&cod=$2&nom=$3 [L]
+
+RewriteRule ^Pagina/?$ pagina.php [L]
+RewriteRule ^Pagina/(\w+)/?$ pagina.php?lang=$1 [L]
+RewriteRule ^Pagina/(\w+)/(\w+)/?$ pagina.php?lang=$1&cod=$2 [L]
+RewriteRule ^Pagina/(\w+)/(\w+)/(\w+)/?$ pagina.php?lang=$1&cod=$2&nom=$3 [L]

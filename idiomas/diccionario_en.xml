@@ -1,0 +1,758 @@
+﻿<?xml version='1.0' ?>
+<diccionario>
+
+  <termino>
+    <etiqueta>Aplitop</etiqueta>
+    <texto>Aplitop, Solutions for Surveying and Civil Engineering</texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>NuestrosProductos</etiqueta>
+    <texto>Our Products</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosProductosTexto</etiqueta>
+    <texto>Consult all information for our products, contact us if you wish.</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>Formacion</etiqueta>
+    <texto>Training</texto>
+  </termino>
+  <termino>
+    <etiqueta>FormacionTexto</etiqueta>
+    <texto><![CDATA[See all information about online courses and face about our products.]]></texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>TiendaVirtual</etiqueta>
+    <texto>Virtual Store</texto>
+  </termino>
+  <termino>
+    <etiqueta>TiendaVirtualTexto</etiqueta>
+    <texto><![CDATA[Visit our online store where you will find our products available for purchase on-line payment by credit card. <br/><br/>To request a quote or additional information, please contact us at: <a href='mailto:sales@aplitop.com'> sales@aplitop.com </a>]]> </texto>
+  </termino>
+
+  <termino>
+    <etiqueta>NuestrosVideos</etiqueta>
+    <texto>Our Videos</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosVideosTexto</etiqueta>
+    <texto>Watch our YouTube channel videos about our products.</texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>SobreNosotros</etiqueta>
+    <texto>About us</texto>
+  </termino>
+  <termino>
+    <etiqueta>SobreNosotrosTexto</etiqueta>
+    <texto>We have a wide range of products, solutions and services designed to sectors of Surveying and Civil Engineering.</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle1</etiqueta>
+    <texto>Ease of use</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription1</etiqueta>
+    <texto>Our experience allows real knowledge of the needs of users, continually updated with suggestions and opinions, so that the applications are practical and easy to use</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle2</etiqueta>
+    <texto>Support high quality</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription2</etiqueta>
+    <texto>For us it is very important technical assistance to users, providing effective and quick responses using all current media</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle3</etiqueta>
+    <texto>Large user base</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription3</etiqueta>
+    <texto>We have more than 10,000 registered users in over 40 countries, users and want our products are easily adapted to the usual way of working in each</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle4</etiqueta>
+    <texto>Wide distribution network</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription4</etiqueta>
+    <texto>Mainly formed by suppliers of surveying instruments and other CAD solutions</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle5</etiqueta>
+    <texto>Highly qualified staff</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription5</etiqueta>
+    <texto>Our staff is a multi-disciplinary team consisting among others in Computing and Telecommunications Engineers and professionals Topographies</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle6</etiqueta>
+    <texto>In continuous innovation</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription6</etiqueta>
+    <texto>We have a wide range of products, solutions and services designed to sectors of Surveying and Civil Engineering</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>NuestrosServicios</etiqueta>
+    <texto>Our Services</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosServiciosTexto</etiqueta>
+    <texto>APLITOP offers quality services and contrasted can see below.</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosServiciosTexto2</etiqueta>
+    <texto>We have a wide range of products, solutions and services designed to sectors of Surveying and Civil Engineering.</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>Sales</etiqueta>
+    <texto>Sale second hand's surveying equipments</texto>
+  </termino>
+  <termino>
+    <etiqueta>SalesDescription</etiqueta>
+    <texto>Our services include the sale and maintenance of surveying equipments.</texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>Noticias</etiqueta>
+    <texto>News</texto>
+  </termino>
+  <termino>
+    <etiqueta>Eventos</etiqueta>
+    <texto>Events</texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>Referencias</etiqueta>
+    <texto>References</texto>
+  </termino>
+  <termino>
+    <etiqueta>ReferenciasTexto</etiqueta>
+    <texto>Improvements companies nationally and internationally and work with us.</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>ContactInfo</etiqueta>
+    <texto>Do you have any questions or need an offer?</texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactInfoTexto</etiqueta>
+    <texto><![CDATA[You can contact us for further information or technical or marketing advice to our <a href="/Contact-us/130" title="Contact us">contact page</a>.]]></texto>
+  </termino>
+
+  <termino>
+    <etiqueta>ProductosTexto</etiqueta>
+    <texto>Get all information about our products: features, requirements, evaluation versions...</texto>
+  </termino>
+ 
+  <!--Página Faqs-->
+  <termino>
+    <etiqueta>Faqs</etiqueta>
+    <texto>Faqs</texto>
+  </termino>
+  <termino>
+    <etiqueta>FaqsTexto</etiqueta>
+    <texto>You can view a number of frequently asked questions about our products and solutions.</texto>
+  </termino>
+
+  <!--Página Clientes-->
+  <termino>
+    <etiqueta>Clientes</etiqueta>
+    <texto>Customers</texto>
+  </termino>
+  <termino>
+    <etiqueta>ClientesTexto</etiqueta>
+    <texto>Can view the extensive list of clients we work.</texto>
+  </termino>
+
+  <!--Página Distribuidores-->
+  <termino>
+    <etiqueta>Distribuidores</etiqueta>
+    <texto>Dealers</texto>
+  </termino>
+  <termino>
+    <etiqueta>DistribuidoresTexto</etiqueta>
+    <texto>Can view the extensive list of dealers we work.</texto>
+  </termino>
+
+  <!--Página Noticias/Eventos-->
+  <termino>
+    <etiqueta>NoticiasTexto</etiqueta>
+    <texto>Access all our news.</texto>
+  </termino>
+  <termino>
+    <etiqueta>EventosTexto</etiqueta>
+    <texto>Access all our events.</texto>
+  </termino>
+  
+  <!--Página Descargas-->
+  <termino>
+    <etiqueta>Descargas</etiqueta>
+    <texto>Downloads</texto>
+  </termino>
+  <termino>
+    <etiqueta>DescargasTexto</etiqueta>
+    <texto>On this page we offer our catalog of applications MDT.</texto>
+  </termino>
+
+  <!--Página Novedades-->
+  <termino>
+    <etiqueta>Novedades</etiqueta>
+    <texto>News</texto>
+  </termino>
+  <termino>
+    <etiqueta>NovedadesTexto</etiqueta>
+    <texto>Access all developments in the system.</texto>
+  </termino>
+
+  <!--Página Descargas Usuario-->
+  <termino>
+    <etiqueta>DescargasUsuario</etiqueta>
+    <texto>Donwload's Users</texto>
+  </termino>
+  <termino>
+    <etiqueta>DescargasUsuarioTexto</etiqueta>
+    <texto>On this page you can view the licenses you have to download the software or documentation of this.</texto>
+  </termino>
+
+  <!--Página Recuperar Clave-->
+  <termino>
+    <etiqueta>RecuperarClave</etiqueta>
+    <texto>Recover password</texto>
+  </termino>
+  <termino>
+    <etiqueta>RecuperarClaveTexto</etiqueta>
+    <texto><![CDATA[If you have forgotten your password, enter your email and click Recover password. <br/> <br/>Will send a message to your account with instructions for access.]]></texto>
+  </termino>
+
+  <!--Página Cambie Clave-->
+  <termino>
+    <etiqueta>CambieClave</etiqueta>
+    <texto>Change the password</texto>
+  </termino>
+  <termino>
+    <etiqueta>CambieClaveTexto</etiqueta>
+    <texto><![CDATA[Enter your new password in order to change it.]]></texto>
+  </termino>
+
+  <!--Página Contactar-->
+  <termino>
+    <etiqueta>Contactar</etiqueta>
+    <texto>Contact us</texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactarTexto</etiqueta>
+    <texto><![CDATA[In this section, we would like to ask for your collaboration to improve these pages and enhance the dissemination of our website. We would therefore appreciate it if you could get in touch with us at the following address: <a href="mailto:info@aplitop.com">info@aplitop.com</a>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactarDireccion</etiqueta>
+    <texto>
+      <![CDATA[<h5>Head office</h5><p>Calle Sumatra, nº 9 - 29190, Málaga (España)</p><p>Tlf: +34 952 43 97 71 </p><p>Fax: +34 952 43 13 71 </p><p>Skype: aplitop.spain </p><p>Latitude: 36º 43’ 56” N, Longitude: 4º 28’ 05” W </p><p>General Information:<a href="mailto:">info@aplitop.com</a></p>]]>
+    </texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactarDireccionOtras</etiqueta>
+    <texto><![CDATA[<h5>Other adress</h5><p>Sales: <a href="mailto:sales@aplitop.com">sales@aplitop.com</a></p><p>Administration: <a href="mailtoadmin@aplitop.com:">admin@aplitop.com</a></p><p>Technical Support: <a href="mailto:soporte@aplitop.com">soporte@aplitop.com</a></p><p>Surveying: <a href="mailto:topo@aplitop.com">topo@aplitop.com</a></p><p>Training: <a href="mailto:formacion@aplitop.com">formacion@aplitop.com</a></p><p>Job Vacancies: <a href="mailto:curriculum@aplitop.com">curriculum@aplitop.com</a></p><p>Data Protection: <a href="mailto:protecciondedatos@aplitop.com">protecciondedatos@aplitop.com</a></p><p>Quality: <a href="mailto:calidad@aplitop.com">calidad@aplitop.com</a></p>]]></texto>
+  </termino>
+
+  <!--Página MapaWeb-->
+  <termino>
+    <etiqueta>MapaWeb</etiqueta>
+    <texto>Sitemap</texto>
+  </termino>
+  
+  <!--Generales-->
+  <termino>
+    <etiqueta>Inicio</etiqueta>
+    <texto>Home</texto>
+  </termino>
+  <termino>
+    <etiqueta>Contactar</etiqueta>
+    <texto>Contact us</texto>
+  </termino>
+  <termino>
+    <etiqueta>AvisoLegal</etiqueta>
+    <texto>Disclaimer</texto>
+  </termino>
+  <termino>
+    <etiqueta>ProteccionDatos</etiqueta>
+    <texto>Data Protection</texto>
+  </termino>
+  <termino>
+    <etiqueta>Todos</etiqueta>
+    <texto>All</texto>
+  </termino>
+  <termino>
+    <etiqueta>Todas</etiqueta>
+    <texto>All</texto>
+  </termino>
+  <termino>
+    <etiqueta>LeerMas</etiqueta>
+    <texto>Read more</texto>
+  </termino>
+  <termino>
+    <etiqueta>Productos</etiqueta>
+    <texto>Products</texto>
+  </termino>
+  <termino>
+    <etiqueta>Servicios</etiqueta>
+    <texto>Services</texto>
+  </termino>
+  <termino>
+    <etiqueta>Soporte</etiqueta>
+    <texto>Support</texto>
+  </termino>
+  <termino>
+    <etiqueta>LaEmpresa</etiqueta>
+    <texto>The company</texto>
+  </termino>
+  <termino>
+    <etiqueta>PaginaAnterior</etiqueta>
+    <texto>Previous page</texto>
+  </termino>
+  <termino>
+    <etiqueta>PaginaSiguiente</etiqueta>
+    <texto>Next page</texto>
+  </termino>
+  <termino>
+    <etiqueta>Buscar</etiqueta>
+    <texto>Find</texto>
+  </termino>
+  <termino>
+    <etiqueta>Comprar</etiqueta>
+    <texto>Buy</texto>
+  </termino>
+  <termino>
+    <etiqueta>Informacion</etiqueta>
+    <texto>Information</texto>
+  </termino>
+  <termino>
+    <etiqueta>Descargar</etiqueta>
+    <texto>Download</texto>
+  </termino>
+  <termino>
+    <etiqueta>Descripcion</etiqueta>
+    <texto>Description</texto>
+  </termino>
+  <termino>
+    <etiqueta>Requisitos</etiqueta>
+    <texto>Requirements</texto>
+  </termino>
+  <termino>
+    <etiqueta>Cerrar</etiqueta>
+    <texto>Close</texto>
+  </termino>
+  <termino>
+    <etiqueta>Licencia</etiqueta>
+    <texto>License</texto>
+  </termino>
+  <termino>
+    <etiqueta>Lenguajes</etiqueta>
+    <texto>Language</texto>
+  </termino>
+  <termino>
+    <etiqueta>Videos</etiqueta>
+    <texto>Videos</texto>
+  </termino>
+  <termino>
+    <etiqueta>Imagenes</etiqueta>
+    <texto>Images</texto>
+  </termino>
+  <termino>
+    <etiqueta>Documentos</etiqueta>
+    <texto>Documents</texto>
+  </termino>
+  <termino>
+    <etiqueta>UltimoMes</etiqueta>
+    <texto>Last month</texto>
+  </termino>
+  <termino>
+    <etiqueta>Ultimo3Mes</etiqueta>
+    <texto>Last three months</texto>
+  </termino>
+  <termino>
+    <etiqueta>UltimoAno</etiqueta>
+    <texto>Last year</texto>
+  </termino>
+  <termino>
+    <etiqueta>VerSoftwareDocumentacion</etiqueta>
+    <texto>See software and documentation</texto>
+  </termino>
+  <termino>
+    <etiqueta>SoftwareDocumentacion</etiqueta>
+    <texto>Software and documentation</texto>
+  </termino>
+  <termino>
+    <etiqueta>NoLicencias</etiqueta>
+    <texto>Can not find the file associated with the license, please write to the following address:</texto>
+  </termino>
+  <termino>
+    <etiqueta>MiPerfil</etiqueta>
+    <texto>My profile</texto>
+  </termino>
+  <termino>
+    <etiqueta>CerrarSesion</etiqueta>
+    <texto>Log out</texto>
+  </termino>
+  <termino>
+    <etiqueta>Cuenta</etiqueta>
+    <texto>Account</texto>
+  </termino>
+  <termino>
+    <etiqueta>EliminarCuenta</etiqueta>
+    <texto>Click here if you wish to cancel your account</texto>
+  </termino>
+  <termino>
+    <etiqueta>BajaCuenta</etiqueta>
+    <texto>Close account</texto>
+  </termino>
+  <termino>
+    <etiqueta>BajaCuentaTexto</etiqueta>
+    <texto>We want to change their minds, if you have had a bad experience or we can do something to change your mind, you can write to</texto>
+  </termino>
+  <termino>
+    <etiqueta>Eliminar</etiqueta>
+    <texto>Remove</texto>
+  </termino>
+  <termino>
+    <etiqueta>Ver</etiqueta>
+    <texto>Learn more</texto>
+  </termino>
+  <termino>
+    <etiqueta>UsoCookies</etiqueta>
+    <texto>Use of cookies</texto>
+  </termino>
+  <termino>
+    <etiqueta>UsoCookiesDescription</etiqueta>
+    <texto><![CDATA[We use cookies to improve our own services and to enhance their experience in navigating our pages. If you continue to browse, consider accepting its use. You can get more information or how to change the settings in our <a data-target="#pageCookie" data-toggle="modal">Cookie Policy</a>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>AyudaOnline</etiqueta>
+    <texto>Online help</texto>
+  </termino>
+  <termino>
+    <etiqueta>MensajeCorrecto</etiqueta>
+    <texto>Email sent successfully</texto>
+  </termino>
+  <termino>
+    <etiqueta>MensajeCorrectoProducto</etiqueta>
+    <texto>
+      <![CDATA[Email sent successfully. Check your email to <b>download the application</b>.<br/>Otherwise sales@aplitop.com add the address to your trusted address and check the spam mailbox.]]>
+    </texto>
+  </termino>
+  <termino>
+    <etiqueta>IncidenciaGuardarError</etiqueta>
+    <texto>,but we were unable to store their incidence</texto>
+  </termino>
+  <termino>
+    <etiqueta>Listado</etiqueta>
+    <texto>List</texto>
+  </termino>
+  <termino>
+    <etiqueta>FechaInicio</etiqueta>
+    <texto>Begining of course</texto>
+  </termino>
+  
+  <!--- Etiquetas filtros páginas dinámicas-->
+  <termino>
+    <etiqueta>OtrasAplicaciones</etiqueta>
+    <texto>Other applications</texto>
+  </termino>
+  <termino>
+    <etiqueta>Categorias</etiqueta>
+    <texto>Categorys</texto>
+  </termino>
+  <termino>
+    <etiqueta>Etiquetas</etiqueta>
+    <texto>Tags</texto>
+  </termino>
+  <termino>
+    <etiqueta>Continentes</etiqueta>
+    <texto>Continents</texto>
+  </termino>
+  <termino>
+    <etiqueta>Paises</etiqueta>
+    <texto>Countries</texto>
+  </termino>
+  
+  <!--Formularios-->
+  <termino>
+    <etiqueta>PreparadosAyudarle</etiqueta>
+    <texto>Ready to help</texto>
+  </termino>
+  <termino>
+    <etiqueta>NoDudeContactar</etiqueta>
+    <texto>Do not hesitate to contact us for any inquiry</texto>
+  </termino>
+  <termino>
+    <etiqueta>EnviandoMensaje</etiqueta>
+    <texto>Sending message...</texto>
+  </termino>
+  <termino>
+    <etiqueta>EnvienosMensaje</etiqueta>
+    <texto>Send us your message</texto>
+  </termino>
+  <termino>
+    <etiqueta>EnviarMensaje</etiqueta>
+    <texto>Send message</texto>
+  </termino>
+  <termino>
+    <etiqueta>GuardarCambios</etiqueta>
+    <texto>Save changes</texto>
+  </termino>
+  <termino>
+    <etiqueta>Acepto</etiqueta>
+    <texto>I accept</texto>
+  </termino>
+  <termino>
+    <etiqueta>Nombre</etiqueta>
+    <texto>Name</texto>
+  </termino>
+  <termino>
+    <etiqueta>Clave</etiqueta>
+    <texto>Password</texto>
+  </termino>
+  <termino>
+    <etiqueta>RepetirClave</etiqueta>
+    <texto>Repeat password</texto>
+  </termino>
+  <termino>
+    <etiqueta>Telefono</etiqueta>
+    <texto>Telephone</texto>
+  </termino>
+  <termino>
+    <etiqueta>Empresa</etiqueta>
+    <texto>Company</texto>
+  </termino>
+  <termino>
+    <etiqueta>Asunto</etiqueta>
+    <texto>Subject</texto>
+  </termino>
+  <termino>
+    <etiqueta>Mensaje</etiqueta>
+    <texto>Message</texto>
+  </termino>
+  <termino>
+    <etiqueta>Pais</etiqueta>
+    <texto>Country</texto>
+  </termino>
+  <termino>
+    <etiqueta>Localidad</etiqueta>
+    <texto>City</texto>
+  </termino>
+  <termino>
+    <etiqueta>Poblacion</etiqueta>
+    <texto>City</texto>
+  </termino>
+  <termino>
+    <etiqueta>Direccion</etiqueta>
+    <texto>Adress</texto>
+  </termino>
+  <termino>
+    <etiqueta>CodigoPostal</etiqueta>
+    <texto>Postal code</texto>
+  </termino>
+  <termino>
+    <etiqueta>Producto</etiqueta>
+    <texto>Product</texto>
+  </termino>
+  <termino>
+    <etiqueta>NumeroSerie</etiqueta>
+    <texto>Serial number</texto>
+  </termino>
+  <termino>
+    <etiqueta>Comentario</etiqueta>
+    <texto>Comment</texto>
+  </termino>
+  <termino>
+    <etiqueta>ComoConocido</etiqueta>
+    <texto>How did you know us</texto>
+  </termino>
+  <termino>
+    <etiqueta>ComoConocidoOptions</etiqueta>
+    <texto>
+      <![CDATA[<option value="Google Adwords">Google Adwords</option><option value="Magazine’s advertisements">Magazine’s advertisements</option><option value="Dealers">Dealers</option><option value="Forums reference">Forums reference</option><option value="University or School">University or School</option><option value="APLITOP newsletter">APLITOP newsletter</option><option value="Advertising spaces">Advertising spaces</option><option value="Other">Other</option>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>AnunciospatrocinadosGoogle</etiqueta>
+    <texto>Through Google Sponsored</texto>
+  </termino>
+  <termino>
+    <etiqueta>Anuncioenrevista</etiqueta>
+    <texto>Magazine´s advertisements</texto>
+  </termino>
+  <termino>
+    <etiqueta>Distribuidor</etiqueta>
+    <texto>Dealer</texto>
+  </termino>
+  <termino>
+    <etiqueta>Referenciaenforos</etiqueta>
+    <texto>Forums reference</texto>
+  </termino>
+  <termino>
+    <etiqueta>Sugerenciaenescuelaocentrodeformacion</etiqueta>
+    <texto>Through school or center of formation</texto>
+  </termino>
+  <termino>
+    <etiqueta>BoletindenoticiasAPLITOP</etiqueta>
+    <texto>APLITOP news bulletin</texto>
+  </termino>
+  <termino>
+    <etiqueta>PublicidadEspacios</etiqueta>
+    <texto>Advertising spaces</texto>
+  </termino>
+  <termino>
+    <etiqueta>SolicitarPresupuesto</etiqueta>
+    <texto>Ask for a quotation</texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaInformacion</etiqueta>
+    <texto>Send a message if you want us further information please fill out the form below:</texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaComprarProducto</etiqueta>
+    <texto><![CDATA[<b>If you want to buy the product fill out the form below and we will contact you:</b>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaDescargar</etiqueta>
+    <texto><![CDATA[To <b>download the files</b> please fill out the form below and we will send you an <b>email with a link</b> for downloading:]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaInformacionProducto</etiqueta>
+    <texto>If you wish to receive more information about the product please fill in the form below:</texto>
+  </termino>
+  <termino>
+    <etiqueta>IntentandoAcceder</etiqueta>
+    <texto>You are trying to access a restricted area. If you are a registered user, please enter your login data.</texto>
+  </termino>
+  <termino>
+    <etiqueta>AccederSoporte</etiqueta>
+    <texto>To access the support area, please enter your username and password.</texto>
+  </termino>
+  <termino>
+    <etiqueta>IniciarSesion</etiqueta>
+    <texto>Login</texto>
+  </termino>
+  <termino>
+    <etiqueta>Entrar</etiqueta>
+    <texto>Enter</texto>
+  </termino>
+  <termino>
+    <etiqueta>SiNoEsUsuarioRegistrese</etiqueta>
+    <texto><![CDATA[If you are not a registered user click <a title="Create account" href="/Register/en/7">here</a> to register]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>OlvidoClave</etiqueta>
+    <texto>Forgot your password?</texto>
+  </termino>
+  <termino>
+    <etiqueta>RecupereClave</etiqueta>
+    <texto>Retrieve password</texto>
+  </termino>
+  <termino>
+    <etiqueta>Registrarse</etiqueta>
+    <texto>
+      <![CDATA[To complete the registration process must complete the following data.<br/><br/>Once your request has been registered will receive an email with instructions to confirm access.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>Registro</etiqueta>
+    <texto>User Register</texto>
+  </termino>
+  <termino>
+    <etiqueta>AutorizaEnvioInformacion</etiqueta>
+    <texto>You allow us to send you information about our products and services</texto>
+  </termino>
+  <termino>
+    <etiqueta>Si</etiqueta>
+    <texto>Yes</texto>
+  </termino>
+  <termino>
+    <etiqueta>CrearCuenta</etiqueta>
+    <texto>Create account</texto>
+  </termino>
+  <termino>
+    <etiqueta>Sugerencias</etiqueta>
+    <texto>Suggestions</texto>
+  </termino>
+  <termino>
+    <etiqueta>SugerenciasTexto</etiqueta>
+    <texto><![CDATA[Want to suggest improvements for future versions?<br/><br/>Use this option to have their ideas will be considered by the development team.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>Adjunto</etiqueta>
+    <texto>Attached</texto>
+  </termino>
+  <termino>
+    <etiqueta>Incidencias</etiqueta>
+    <texto>Incidences</texto>
+  </termino>
+  <termino>
+    <etiqueta>IncidenciasTexto</etiqueta>
+    <texto><![CDATA[If you have any problem and want that our technical team solves it, the only thing you have to do is to fill in the following form, explain us what has happened and how.<br/><br/>A message will be send with the solution. Thank you for trusting in us.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>Version</etiqueta>
+    <texto>Version</texto>
+  </termino>
+  <termino>
+    <etiqueta>Reproduccion</etiqueta>
+    <texto>Steps to reproduce</texto>
+  </termino>
+  <termino>
+    <etiqueta>PlataformaEntorno</etiqueta>
+    <texto>Platform/Environment</texto>
+  </termino>
+  <termino>
+    <etiqueta>DejanosMensaje</etiqueta>
+    <texto>Leave a message</texto>
+  </termino>
+  <termino>
+    <etiqueta>Responderemos</etiqueta>
+    <texto>We will reply your message as soon as possible.</texto>
+  </termino>
+  <termino>
+    <etiqueta>NivelExperiencia</etiqueta>
+    <texto>Level and experience</texto>
+  </termino>
+  <termino>
+    <etiqueta>NumeroPersonas</etiqueta>
+    <texto>Number of persons</texto>
+  </termino>
+  <termino>
+    <etiqueta>ServiciosFormacionOnline</etiqueta>
+    <texto>Services: Training - On-Line Courses</texto>
+  </termino>
+  <termino>
+    <etiqueta>ServiciosFormacionPresencial</etiqueta>
+    <texto>Services: Training - Classroom courses</texto>
+  </termino>
+  <termino>
+    <etiqueta>ServiciosFormacionUniversidad</etiqueta>
+    <texto>Services: Training - School and University</texto>
+  </termino>
+  <termino>
+    <etiqueta>ERRORreCAPTCHA</etiqueta>
+    <texto>ERROR: You have not made the reCAPTCHA verification</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>LicenciaEvaluacion</etiqueta>
+    <texto>Download free evaluation license</texto>
+  </termino>
+  <termino>
+    <etiqueta>Marca</etiqueta>
+    <texto>Marca</texto>
+  </termino>
+  <termino>
+    <etiqueta>Modelo</etiqueta>
+    <texto>Modelo</texto>
+  </termino>
+</diccionario>

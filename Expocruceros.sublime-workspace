@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"center",
+				"text-center"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/efgp6/Desktop/alendasoftware/Proyectos/aplitop/inicio/Aplitop, Aplicaciones de Topografía e Ingeniería Civil.html",
+		"/C/Users/efgp6/Desktop/alendasoftware/Proyectos/aplitop/inicio web/Aplitop, Aplicaciones de Topografía e Ingeniería Civil.html",
+		"/C/xampp/htdocs/expocruceros/.htaccess",
+		"/C/xampp/htdocs/expocruceros/__alexhtml/v1/.htaccess",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/sections.inc.php",
+		"/C/xampp/htdocs/expocruceros/index.php",
+		"/C/xampp/htdocs/expocruceros/indexv1.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/datos/buque.inc.php",
+		"/C/xampp/htdocs/expocruceros/__alexhtml/v1/sections.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/recaptcha.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/parametros.inc.php",
+		"/C/xampp/htdocs/expocruceros/ofertas.php",
+		"/C/xampp/htdocs/expocruceros/error.php",
+		"/C/xampp/htdocs/expocruceros/puertos.php",
+		"/C/xampp/htdocs/expocruceros/noticias.php",
+		"/C/xampp/htdocs/expocruceros/destacados.php",
+		"/C/xampp/htdocs/expocruceros/destinos.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/basedato.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/principal.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/datos.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/constantes.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/datos/banner.inc.php",
+		"/C/xampp/htdocs/expocruceros/css/main.css",
+		"/C/xampp/htdocs/expocruceros/AppCode/datos/participacion.inc.php",
+		"/C/xampp/htdocs/expocruceros/plantilla/section_user.inc",
+		"/C/xampp/htdocs/expocruceros/AppCode/datos/usuario.inc.php",
+		"/C/Users/Quique/Desktop/alenda/main.css",
+		"/C/xampp/htdocs/expocruceros/AppCode/general/cookie.inc.php",
+		"/C/xampp/htdocs/expocruceros/plantilla/section_cookie.inc",
+		"/C/xampp/htdocs/expocruceros/cruceros.php",
+		"/C/Users/Quique/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Quique/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/expocruceros/site.master_v2.php",
+		"/C/xampp/htdocs/expocruceros/site.master.php",
+		"/C/xampp/htdocs/expocruceros/idiomas/diccionario_es.xml",
+		"/C/xampp/htdocs/expocruceros/opiniones.php",
+		"/C/xampp/htdocs/expocruceros/Doc/php_resumen.txt",
+		"/C/xampp/htdocs/expocruceros/controlUsuario.php",
+		"/C/xampp/htdocs/expocruceros/crucero.php",
+		"/C/xampp/htdocs/expocruceros/buque.php",
+		"/C/Users/Quique/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/expocruceros.json",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1446994970/expocruceros.json/expocruceros/AppCode/datos/participacion.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/Datos/participacion.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/Datos/buque.inc.php",
+		"/C/xampp/htdocs/expocruceros/AppCode/constantes.inc",
+		"/C/xampp/htdocs/expocruceros/Expocruceros.sublime-project",
+		"/C/xampp/htdocs/expocruceros/AppCode/basedato.inc",
+		"/C/xampp/htdocs/bufetebernalberrocal/bufetebernalberrocal.sublime-project",
+		"/C/xampp/htdocs/bufetebernalberrocal/conocenos.html",
+		"/C/xampp/htdocs/bufetebernalberrocal/contacto.php",
+		"/C/xampp/htdocs/bufetebernalberrocal/comunidades.html",
+		"/C/xampp/htdocs/panel_bufetebernalberrocal/index.php",
+		"/C/xampp/htdocs/panel_bufetebernalberrocal/includes/header.inc.php",
+		"/C/Users/Quique/Desktop/Expocruceros/subidas/buques/63/camarotes.html",
+		"/C/xampp/htdocs/expocruceros/text.html",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442657112/expocruceros.json/expocruceros/crucero.php",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442657238/expocruceros.json/expocruceros/AppCode/datos/buque.inc.php",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442657534/expocruceros.json/expocruceros/AppCode/datos/archivo.inc.php",
+		"/C/xampp/htdocs/expocruceros/contactar.php",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442529853/expocruceros.json/expocruceros/idiomas/diccionario_es.xml",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442529601/expocruceros.json/expocruceros/cruceros.php",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442529112/expocruceros.json/expocruceros/cruceros.php",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442529178/expocruceros.json/expocruceros/idiomas/diccionario_es.xml",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442528951/expocruceros.json/expocruceros/AppCode/general/constantes.inc.php",
+		"/C/users/quique/appdata/local/temp/sublime-sftp-browse-1442528445/expocruceros.json/expocruceros/index.php",
+		"/C/xampp/htdocs/expocruceros/plantilla/footer.inc",
+		"/C/xampp/htdocs/expocruceros/AppCode/datos.inc",
+		"/C/xampp/htdocs/expocruceros/AppCode/urlAmigable.inc",
+		"/C/Users/Quique/Desktop/Expocruceros.csv",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Evaluar/Modulo4/P2P_mod4.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Evaluar/Modulo4/ej_t4.js",
+		"/C/Users/Quique/apps/app2.js",
+		"/C/Users/Quique/apps/app1.js",
+		"/C/Users/Quique/apps/mi_ruta/app1.html",
+		"/C/Users/Quique/apps/mi_ruta/aap1.html",
+		"/C/Users/Quique/apps/public/dir/index.html",
+		"/C/Users/Quique/curso/merge.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/merge.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Para evaluar/p2p.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Para evaluar/EjerObligatorio.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Para evaluar/Modulo2_P2P.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Ejercicio P2P Mod 2.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Ejercicio P2P Mod 1.js",
+		"/C/Users/Quique/Desktop/Ejerccicio P2P Mod 1.js",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/BD/CapitanAlboran.sql",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/index.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/preguntas/home.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/report.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/juego/index.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/respuestas/editor.php",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/package.manifest",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/manifest.webapp",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/hosted/manifest.webapp",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/_package.manifest",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/_manifest.webapp",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/index.html",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/rutas.html",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/mod10_ejemplos/packed/package.manifest",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/package.manifest1"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\expocruceros"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p_gps",
+			"SectionUnderConstruction",
+			"SectionError",
+			"SectionUnderConstruction",
+			"logo.png",
+			"index",
+			"SectionPrincipalHome(",
+			"SectionPrincipalHome",
+			"SectionPrincipalHomeBanner",
+			"objUrlAmigable",
+			"PrincipalH",
+			"principalh",
+			"<a",
+			"banner1",
+			"SectionUnderConstruction",
+			"vbBasedatoProduccionHost",
+			"Nº. de Camarotes con Balcón",
+			".cajaAccesoDirectoOpinion",
+			"eliminar",
+			".capaValoracionesResumen i",
+			"Eliminar",
+			"<button class=\"btn btn-default\" type=\"submmit\">Eliminar</button>",
+			"de su perf",
+			"amigable",
+			"MI PERFIL",
+			"Si desea volver",
+			"Si desea volver opinar sobre este buque, elimine desde sus opiniones, la opinión que ha dado sobre este buque.",
+			"capaBuscadorSlid",
+			"capaBuscadorBarcos",
+			"f0f0f0",
+			"buscadorSlider",
+			"h3",
+			"barco",
+			"mi perfil",
+			"buscadorsl",
+			"mi perfil",
+			"política de cook",
+			"buscadorslider",
+			"barco",
+			"capaBuscadorBarcos",
+			"barco",
+			"encontrar cruceros",
+			"Mis opiniones",
+			"encontrar cruceros",
+			"desconectar",
+			"save",
+			"utf",
+			"déjanos",
+			"con instrucciones",
+			"correo electrónico con instrucciones para confirmar su alta",
+			"correo electrónico con instrucciones para confirmar su alta.",
+			"opiniones</h1>",
+			"opiniones",
+			"SectionOpiniones",
+			"SectionOpinionesUsuario",
+			"aqui",
+			"Ver todas",
+			"opinión",
+			"basado en",
+			"DibujaElementoFichaTecnica",
+			"Núm de",
+			"DibujaOpinion",
+			"SectionOpinionesUsuario",
+			"Mis opiniones",
+			"Únete",
+			"/7",
+			"restringi",
+			"SiNoEsUsuarioRegistrese",
+			"aquí",
+			"IntentandoAcceder",
+			"zona res",
+			"diccionario",
+			"No hemos encontrado lo que buscas. Accede a nuestra zona de cruceros y podrás encontrar todos nuestro barcos",
+			"tu ",
+			"tu",
+			"registre",
+			"register",
+			"registre",
+			"Usuario no válido. Hay problemas con la cuenta que ha solicitado, revise el correo electrónico y la clave.",
+			"aplitop",
+			"registro",
+			"Para completar el proceso de registro debe rellenar los siguientes datos.",
+			"Camarotes",
+			"Consulta",
+			"DibujaOpinionHome",
+			"Las últimas opiniones de nuestros usuarios",
+			"consultaValorados",
+			"top 5",
+			"reques",
+			"iss",
+			"||",
+			"&&",
+			"reques",
+			"row",
+			"order",
+			"productos",
+			"\"\"",
+			"style"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true
+}

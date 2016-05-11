@@ -1,0 +1,109 @@
+BODY
+{
+    FONT-FAMILY: Arial,sans-serif;
+    MARGIN: Auto;
+    COLOR: #000000;    
+    FONT-size: 1em;
+	TEXT-ALIGN:center;
+}
+
+INPUT
+{
+    FONT-FAMILY: Arial,sans-serif;
+    BACKGROUND-COLOR: #FFF;
+	border-top-color:#7E5B25;
+	border-bottom-color:#7E5B25;
+	border-left-color:#7E5B25;
+	border-right-color:#7E5B25;
+	border-style:solid;
+	border-width:1px;
+    WIDTH:170px;
+}
+.boton{
+	WIDTH:80px;
+	height:20px;
+	border-top:solid 1px #7E5B25;
+	border-bottom-color:#7E5B25;
+	border-left-color:#7E5B25;
+	border-right-color:#7E5B25;
+	background-color: #EFB35C;
+	color:#FFFFFF; 
+	cursor:pointer;
+}
+
+LABEL{
+
+	FONT-size: 0.8em; 
+}
+
+#login
+{
+    BORDER-RIGHT: #7E5B25 1px solid;
+    BORDER-TOP: #7E5B25 1px solid;
+    BORDER-LEFT: #7E5B25 1px solid;
+    BORDER-BOTTOM: #7E5B25 1px solid; 
+	margin-top:50px;
+    width:400px;
+	text-align:left;
+	background-color: #EFDCB6;
+}
+#cabecera
+{    
+    BACKGROUND-COLOR: #7E5B25;
+    HEIGHT:20px;    
+}
+#cabecera H1
+{    
+	position:relative;
+	top:5px;
+	left:5px;
+	margin: 0px;
+	COLOR: #ffffff;
+	FONT-size: 0.8em;     
+}
+#cabecera div
+{
+	position:relative;
+	top:-10px;
+	right:5px;
+	margin: 0px;
+	text-align:right;
+	COLOR: #ffffff;
+	FONT-size: 0.8em;  
+	
+}
+#cuerpo
+{
+    background-image:url(../images/logo_login.jpg); 
+	background-position: bottom right;
+	background-repeat:no-repeat;
+	PADDING-LEFT: 10px; 
+    PADDING-TOP: 20px;	
+    PADDING-bottom: 10px;	
+}
+#usuario label
+{
+	margin-right:10px; 
+}
+#clave label
+{
+	margin-right:19px;
+	
+}
+#dominio label
+{
+	margin-right:3px;
+	
+}
+#botonEntrar{
+	padding-top:20px;
+	padding-left:100px;
+}
+
+.info
+{
+	margin-top:10px;
+	padding-left:10px;
+	font-size:0.8em;
+	font-weight:bold;
+}

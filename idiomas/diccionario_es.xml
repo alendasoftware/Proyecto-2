@@ -1,0 +1,748 @@
+﻿<?xml version='1.0' ?>
+<diccionario> 
+  <termino>
+    <etiqueta>Aplitop</etiqueta>
+    <texto>Expocruceros, el mejor destino de la tierra está en el mar</texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>NuestrosProductos</etiqueta>
+    <texto>Buques</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosProductosTexto</etiqueta>
+    <texto><![CDATA[Consulte toda la información sobre los buques de las siguientes navieras.]]></texto>
+  </termino>
+
+  <termino>
+    <etiqueta>Formacion</etiqueta>
+    <texto>Formación</texto>
+  </termino>
+  <termino>
+    <etiqueta>FormacionTexto</etiqueta>
+    <texto><![CDATA[Consulte toda la información sobre cursos on-line y presenciales sobre nuestros productos.]]></texto>
+  </termino>
+
+  <termino>
+    <etiqueta>TiendaVirtual</etiqueta>
+    <texto>Tienda Virtual</texto>
+  </termino>
+  <termino>
+    <etiqueta>TiendaVirtualTexto</etiqueta>
+    <texto><![CDATA[Visite nuestra tienda virtual, donde encontrará nuestros productos disponibles para compra on-line, realizando el pago con tarjeta de crédito. <br/><br/>Para solicitar presupuesto o información adicional, escríbanos a: <a href='mailto:info@expocruceros.com'>info@expocruceros.com</a>]]> </texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>NuestrosVideos</etiqueta>
+    <texto>Nuestros Videos</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosVideosTexto</etiqueta>
+    <texto>Vea en nuestro canal de youtube videos con información sobre nuestros productos.</texto>
+  </termino>
+  
+  <termino>
+    <etiqueta>SobreNosotros</etiqueta>
+    <texto>Sobre Nosotros</texto>
+  </termino>
+  <termino>
+    <etiqueta>SobreNosotrosTexto</etiqueta>
+    <texto>Disponemos de un amplio catálogo de productos, soluciones y servicios diseñados para los sectores de la Topografía y la Ingeniería Civil.</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle1</etiqueta>
+    <texto>Facilidad de uso</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription1</etiqueta>
+    <texto>Nuestra experiencia permite un conocimiento real de las necesidades de los usuarios, siendo actualizadas continuamente con sugerencias y opiniones, de forma que las aplicaciones son prácticas y fáciles de usar</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle2</etiqueta>
+    <texto>Soporte técnico de alta calidad</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription2</etiqueta>
+    <texto>Para nosotros es muy importante la asistencia técnica a los usuarios, dando respuestas eficaces y rápidas empleando todos los medios de comunicación actuales</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle3</etiqueta>
+    <texto>Gran base de usuarios</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription3</etiqueta>
+    <texto>Disponemos de más de 10.000 usuarios registrados en más de 40 países, y pretendemos que nuestros productos se adapten fácilmente a la forma habitual de trabajar en cada uno de ellos</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle4</etiqueta>
+    <texto>Amplia red de distribución</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription4</etiqueta>
+    <texto>Formada principalmente por empresas suministradoras de instrumentos topográficos y otras de soluciones CAD</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle5</etiqueta>
+    <texto>Personal altamente cualificado</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription5</etiqueta>
+    <texto>Nuestro personal es un equipo multi-disciplinar, compuesto entre otros por Ingenieros en Informática y Telecomunicaciones y profesionales de la Topografías</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureTitle6</etiqueta>
+    <texto>En continua innovación</texto>
+  </termino>
+  <termino>
+    <etiqueta>FeatureDescription6</etiqueta>
+    <texto>Disponemos de un amplio catálogo de productos, soluciones y servicios diseñados para los sectores de la Topografía y la Ingeniería Civil.</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>NuestrosServicios</etiqueta>
+    <texto>Nuestros Servicios</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosServiciosTexto</etiqueta>
+    <texto>EXPOCRUCEROS dispone de unos servicios de calidad y contrastados que puede consultar a continuación.</texto>
+  </termino>
+  <termino>
+    <etiqueta>NuestrosServiciosTexto2</etiqueta>
+    <texto>Disponemos de un amplio catálogo de productos, soluciones y servicios diseñados para los sectores de la Topografía y la Ingeniería Civil.</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>Sales</etiqueta>
+    <texto>Venta de Aparatos topográficos de segunda mano</texto>
+  </termino>
+  <termino>
+    <etiqueta>SalesDescription</etiqueta>
+    <texto>Nuestros servicios incluyen la venta y mantenimiento de equipos de topografía.</texto>
+  </termino>  
+  
+  <termino>
+    <etiqueta>Noticias</etiqueta>
+    <texto>Noticias</texto>
+  </termino>
+  <termino>
+    <etiqueta>Eventos</etiqueta>
+    <texto>Eventos</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>Referencias</etiqueta>
+    <texto>Referencias</texto>
+  </termino>
+  <termino>
+    <etiqueta>ReferenciasTexto</etiqueta>
+    <texto>Las mejoras empresas a nivel nacional e internacional ya trabajan con nosotros.</texto>
+  </termino>
+
+  <termino>
+    <etiqueta>ContactInfo</etiqueta>
+    <texto>¿Tiene alguna pregunta o necesita una oferta personalizada ?</texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactInfoTexto</etiqueta>
+    <texto><![CDATA[Puede ponerse en contacto con nosotros para solicitar información adicional, o bien asistencia técnica o comercial en nuestra página de <a href="/Contact-us/130" title="Contactar">contacto</a>.]]></texto>
+  </termino>
+
+  <termino>
+    <etiqueta>ProductosTexto</etiqueta>
+    <texto>Acceda a toda la información sobre nuestros productos: dossiers, requisitos mínimos, versiones de evaluación, etc.</texto>
+  </termino>
+  
+  <!--Página Faqs-->
+  <termino>
+    <etiqueta>Faqs</etiqueta>
+    <texto>Preguntas Frecuentes</texto>
+  </termino>
+  <termino>
+    <etiqueta>FaqsTexto</etiqueta>
+    <texto>Puede consultar un gran número de preguntas frecuentes acerca de nuestros productos y soluciones.</texto>
+  </termino>
+
+  <!--Página Clientes-->
+  <termino>
+    <etiqueta>Clientes</etiqueta>
+    <texto>Clientes</texto>
+  </termino>
+  <termino>
+    <etiqueta>ClientesTexto</etiqueta>
+    <texto>Puede consultar el amplio listado de clientes con los que trabajamos.</texto>
+  </termino>
+
+  <!--Página Distribuidores-->
+  <termino>
+    <etiqueta>Distribuidores</etiqueta>
+    <texto>Distribuidores</texto>
+  </termino>
+  <termino>
+    <etiqueta>DistribuidoresTexto</etiqueta>
+    <texto>Puede consultar el amplio catálogo de distribuidores con los que trabajamos.</texto>
+  </termino>
+
+  <!--Página Noticias/Eventos-->
+  <termino>
+    <etiqueta>NoticiasTexto</etiqueta>
+    <texto>Acceda a todas nuestras noticias.</texto>
+  </termino>
+  <termino>
+    <etiqueta>EventosTexto</etiqueta>
+    <texto>Acceda a todos nuestros eventos.</texto>
+  </termino>
+  
+  <!--Página Descargas-->
+  <termino>
+    <etiqueta>Descargas</etiqueta>
+    <texto>Descargas</texto>
+  </termino>
+  <termino>
+    <etiqueta>DescargasTexto</etiqueta>
+    <texto>En esta página puede consultar nuestro catálogo de aplicaciones MDT.</texto>
+  </termino>
+
+  <!--Página Novedades-->
+  <termino>
+    <etiqueta>Novedades</etiqueta>
+    <texto>Novedades</texto>
+  </termino>
+  <termino>
+    <etiqueta>NovedadesTexto</etiqueta>
+    <texto>Acceda a todas las novedades registradas en el sistema.</texto>
+  </termino>
+
+  <!--Página Descargas Usuario-->
+  <termino>
+    <etiqueta>DescargasUsuario</etiqueta>
+    <texto>Descargas de usuario</texto>
+  </termino>
+  <termino>
+    <etiqueta>DescargasUsuarioTexto</etiqueta>
+    <texto>En esta páginas puede consultar las licencias de las que dispone para la descarga del software o la documentación de esta.</texto>
+  </termino>
+
+  <!--Página Recuperar Clave-->
+  <termino>
+    <etiqueta>RecuperarClave</etiqueta>
+    <texto>Recuperar clave</texto>
+  </termino>
+  <termino>
+    <etiqueta>RecuperarClaveTexto</etiqueta>
+    <texto><![CDATA[Si ha olvidado su contraseña introduzca su dirección de correo y pulse en Recuperar clave. <br/><br/>Le enviaremos un mensaje a su cuenta con intrucciones para el acceso.]]></texto>
+  </termino>
+
+  <!--Página Cambie Clave-->
+  <termino>
+    <etiqueta>CambieClave</etiqueta>
+    <texto>Cambie la clave</texto>
+  </termino>
+  <termino>
+    <etiqueta>CambieClaveTexto</etiqueta>
+    <texto><![CDATA[Introduzca su nueva contraseña para realizar el cambio de la misma.]]></texto>
+  </termino>
+
+  <!--Página Contactar-->
+  <termino>
+    <etiqueta>Contactar</etiqueta>
+    <texto>Contactar</texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactarTexto</etiqueta>
+    <texto><![CDATA[En este apartado queremos pedir su colaboración para mejorar estas páginas y aumentar la difusión de nuestro portal web, para ello le agradeceremos se ponga en contacto con nosotros en la siguiente dirección: <a href="mailto:info@expocruceros.com">info@expocruceros.com</a>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>ContactarDireccion</etiqueta>
+    <texto>
+      <![CDATA[<h5>Oficina principal</h5><p>Calle Sta. María, 2, 29015 Málaga (España)</p><p>Tlf: 633 06 33 38 </p><p>Información general:<a href="mailto:info@expocruceros.com">info@expocruceros.com</a></p>]]></texto>
+  </termino>
+  
+  <!--Página MapaWeb-->
+  <termino>
+    <etiqueta>MapaWeb</etiqueta>
+    <texto>Mapa web</texto>
+  </termino>
+  
+  <!--Generales-->
+  <termino>
+    <etiqueta>Inicio</etiqueta>
+    <texto>Inicio</texto>
+  </termino>
+  <termino>
+    <etiqueta>Contactar</etiqueta>
+    <texto>Contactar</texto>
+  </termino>
+  <termino>
+    <etiqueta>AvisoLegal</etiqueta>
+    <texto>Aviso legal</texto>
+  </termino>
+  <termino>
+    <etiqueta>ProteccionDatos</etiqueta>
+    <texto>Protección de Datos</texto>
+  </termino>
+  <termino>
+    <etiqueta>Todos</etiqueta>
+    <texto>Todos</texto>
+  </termino>
+  <termino>
+    <etiqueta>Todas</etiqueta>
+    <texto>Todas</texto>
+  </termino>  
+  <termino>
+    <etiqueta>LeerMas</etiqueta>
+    <texto>Leer más</texto>
+  </termino>
+  <termino>
+    <etiqueta>Productos</etiqueta>
+    <texto>Navieras</texto>
+  </termino>
+  <termino>
+    <etiqueta>Servicios</etiqueta>
+    <texto>Servicios</texto>
+  </termino>
+  <termino>
+    <etiqueta>Soporte</etiqueta>
+    <texto>Soporte</texto>
+  </termino>
+  <termino>
+    <etiqueta>LaEmpresa</etiqueta>
+    <texto>La empresa</texto>
+  </termino>
+  <termino>
+    <etiqueta>PaginaAnterior</etiqueta>
+    <texto>Página anterior</texto>
+  </termino>
+  <termino>
+    <etiqueta>PaginaSiguiente</etiqueta>
+    <texto>Página siguiente</texto>
+  </termino>
+  <termino>
+    <etiqueta>Buscar</etiqueta>
+    <texto>Buscar</texto>
+  </termino>
+  <termino>
+    <etiqueta>Comprar</etiqueta>
+    <texto>Comprar</texto>
+  </termino>
+  <termino>
+    <etiqueta>Informacion</etiqueta>
+    <texto>Información</texto>
+  </termino>
+  <termino>
+    <etiqueta>Descargar</etiqueta>
+    <texto>Descargar</texto>
+  </termino>
+  <termino>
+    <etiqueta>Descripcion</etiqueta>
+    <texto>Descripción</texto>
+  </termino>
+  <termino>
+    <etiqueta>Requisitos</etiqueta>
+    <texto>Requisitos</texto>
+  </termino>
+  <termino>
+    <etiqueta>Cerrar</etiqueta>
+    <texto>Cerrar</texto>
+  </termino>
+  <termino>
+    <etiqueta>Licencia</etiqueta>
+    <texto>Licencia</texto>
+  </termino>
+  <termino>
+    <etiqueta>Lenguajes</etiqueta>
+    <texto>Lenguajes</texto>
+  </termino>
+  <termino>
+    <etiqueta>Videos</etiqueta>
+    <texto>Videos</texto>
+  </termino>
+  <termino>
+    <etiqueta>Imagenes</etiqueta>
+    <texto>Imágenes</texto>
+  </termino>
+  <termino>
+    <etiqueta>Documentos</etiqueta>
+    <texto>Documentos</texto>
+  </termino>
+  <termino>
+    <etiqueta>UltimoMes</etiqueta>
+    <texto>Último mes</texto>
+  </termino>
+  <termino>
+    <etiqueta>Ultimo3Mes</etiqueta>
+    <texto>Últimos tres meses</texto>
+  </termino>
+  <termino>
+    <etiqueta>UltimoAno</etiqueta>
+    <texto>Último año</texto>
+  </termino>
+  <termino>
+    <etiqueta>VerSoftwareDocumentacion</etiqueta>
+    <texto>Ver software y documentación</texto>
+  </termino>
+  <termino>
+    <etiqueta>SoftwareDocumentacion</etiqueta>
+    <texto>Software y documentación</texto>
+  </termino>
+  <termino>
+    <etiqueta>NoLicencias</etiqueta>
+    <texto>No se encuentra el archivo asociado a la licencia, por favor escribanos a la siguiente dirección:</texto>
+  </termino>
+  <termino>
+    <etiqueta>MiPerfil</etiqueta>
+    <texto>Mi perfil</texto>
+  </termino>
+  <termino>
+    <etiqueta>CerrarSesion</etiqueta>
+    <texto>Cerrar sesión</texto>
+  </termino>
+  <termino>
+    <etiqueta>Cuenta</etiqueta>
+    <texto>Cuenta</texto>
+  </termino>
+  <termino>
+    <etiqueta>EliminarCuenta</etiqueta>
+    <texto>Pulse aquí si desea dar de baja su cuenta</texto>
+  </termino>
+  <termino>
+    <etiqueta>BajaCuenta</etiqueta>
+    <texto>Baja de la cuenta</texto>
+  </termino>
+  <termino>
+    <etiqueta>BajaCuentaTexto</etiqueta>
+    <texto>Queremos que cambien de opinión, si ha tenido una mala experiencia o podemos hacer algo para que cambien de idea, puede escribirnos a</texto>
+  </termino>
+  <termino>
+    <etiqueta>Eliminar</etiqueta>
+    <texto>Eliminar</texto>
+  </termino>
+  <termino>
+    <etiqueta>Ver</etiqueta>
+    <texto>Ver</texto>
+  </termino>
+  <termino>
+    <etiqueta>UsoCookies</etiqueta>
+    <texto>Uso de cookies</texto>
+  </termino>
+  <termino>
+    <etiqueta>UsoCookiesDescription</etiqueta>
+    <texto><![CDATA[Utilizamos cookies propias para mejorar nuestros servicios y para mejorar su experiencia en la navegación por nuestras páginas. Si continúa navegando, consideramos que acepta su uso. Puede obtener más información, o bien conocer cómo cambiar la configuración, en nuestra <a data-target="#pageCookie" data-toggle="modal">Política de cookies</a>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>AyudaOnline</etiqueta>
+    <texto>Ayuda en línea</texto>
+  </termino>
+  <termino>
+    <etiqueta>MensajeCorrecto</etiqueta>
+    <texto>Su mensaje ha sido enviado satisfactoriamente</texto>
+  </termino>
+  <termino>
+    <etiqueta>MensajeCorrectoProducto</etiqueta>
+    <texto>
+      <![CDATA[Su mensaje ha sido enviado satisfactoriamente. Compruebe su correo para <b>descargar la aplicación</b>.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>IncidenciaGuardarError</etiqueta>
+    <texto>,pero no hemos podido almacenar su incidencia</texto>
+  </termino>
+  <termino>
+    <etiqueta>Listado</etiqueta>
+    <texto>Listado</texto>
+  </termino>
+  <termino>
+    <etiqueta>FechaInicio</etiqueta>
+    <texto>Fecha de Inicio</texto>
+  </termino>
+  
+  <!--- Etiquetas filtros páginas dinámicas-->
+  <termino>
+    <etiqueta>OtrasAplicaciones</etiqueta>
+    <texto>Otras aplicaciones</texto>
+  </termino>
+  <termino>
+    <etiqueta>Categorias</etiqueta>
+    <texto>Categorías</texto>
+  </termino>
+  <termino>
+    <etiqueta>Etiquetas</etiqueta>
+    <texto>Etiquetas</texto>
+  </termino>  
+  <termino>
+    <etiqueta>Continentes</etiqueta>
+    <texto>Continentes</texto>
+  </termino>
+  <termino>
+    <etiqueta>Paises</etiqueta>
+    <texto>Países</texto>
+  </termino>
+
+  <!--Formularios-->
+  <termino>
+    <etiqueta>PreparadosAyudarle</etiqueta>
+    <texto>Preparados para ayudarle</texto>
+  </termino>
+  <termino>
+    <etiqueta>NoDudeContactar</etiqueta>
+    <texto>No duden en ponerse en contacto con nosotros para cualquier consulta</texto>
+  </termino>
+  <termino>
+    <etiqueta>EnviandoMensaje</etiqueta>
+    <texto>Su mensaje se esta enviando...</texto>
+  </termino>
+  <termino>
+    <etiqueta>EnviarMensaje</etiqueta>
+    <texto>Enviar mensaje</texto>
+  </termino>
+  <termino>
+    <etiqueta>EnvienosMensaje</etiqueta>
+    <texto>Enviar mensaje</texto>
+  </termino>
+  <termino>
+    <etiqueta>GuardarCambios</etiqueta>
+    <texto>Guardar cambios</texto>
+  </termino>  
+  <termino>
+    <etiqueta>Acepto</etiqueta>
+    <texto>Acepto la</texto>
+  </termino>
+  <termino>
+    <etiqueta>Nombre</etiqueta>
+    <texto>Nombre</texto>
+  </termino>
+  <termino>
+    <etiqueta>Clave</etiqueta>
+    <texto>Clave</texto>
+  </termino>
+  <termino>
+    <etiqueta>RepetirClave</etiqueta>
+    <texto>Repetir clave</texto>
+  </termino>  
+  <termino>
+    <etiqueta>Telefono</etiqueta>
+    <texto>Teléfono</texto>
+  </termino>
+  <termino>
+    <etiqueta>Empresa</etiqueta>
+    <texto>Empresa</texto>
+  </termino>
+  <termino>
+    <etiqueta>Asunto</etiqueta>
+    <texto>Asunto</texto>
+  </termino>
+  <termino>
+    <etiqueta>Mensaje</etiqueta>
+    <texto>Mensaje</texto>
+  </termino>
+  <termino>
+    <etiqueta>Pais</etiqueta>
+    <texto>País</texto>
+  </termino>
+  <termino>
+    <etiqueta>Localidad</etiqueta>
+    <texto>Localidad</texto>
+  </termino>
+  <termino>
+    <etiqueta>Poblacion</etiqueta>
+    <texto>Población</texto>
+  </termino>
+  <termino>
+    <etiqueta>Direccion</etiqueta>
+    <texto>Dirección</texto>
+  </termino>
+  <termino>
+    <etiqueta>CodigoPostal</etiqueta>
+    <texto>Código postal</texto>
+  </termino>  
+  <termino>
+    <etiqueta>Producto</etiqueta>
+    <texto>Producto</texto>
+  </termino>
+  <termino>
+    <etiqueta>NumeroSerie</etiqueta>
+    <texto>Nº de serie</texto>
+  </termino>  
+  <termino>
+    <etiqueta>Comentario</etiqueta>
+    <texto>Comentario</texto>
+  </termino>
+  <termino>
+    <etiqueta>ComoConocido</etiqueta>
+    <texto>Cómo nos ha conocido</texto>
+  </termino>
+  <termino>
+    <etiqueta>ComoConocidoOptions</etiqueta>
+    <texto><![CDATA[<option value="Anuncios patrocinados Google">Anuncios patrocinados Google</option><option value="Anuncio en revista">Anuncio en revista</option><option value="Distribuidor">Distribuidor</option><option value="Referencia en foros">Referencia en foros</option><option value="Sugerencia en escuela o centro de formación">Sugerencia en escuela o centro de formación</option><option value="Boletín de noticias EXPOCRUCEROS">Boletín de noticias EXPOCRUCEROS</option><option value="Espacios de Publicidad">Espacios de Publicidad</option><option value="Otros">Otros</option>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>AnunciospatrocinadosGoogle</etiqueta>
+    <texto>Anuncios patrocinados Google</texto>
+  </termino>
+  <termino>
+    <etiqueta>Anuncioenrevista</etiqueta>
+    <texto>Anuncio en revista</texto>
+  </termino>
+  <termino>
+    <etiqueta>Distribuidor</etiqueta>
+    <texto>Distribuidor</texto>
+  </termino>
+  <termino>
+    <etiqueta>Referenciaenforos</etiqueta>
+    <texto>Referencia en foros</texto>
+  </termino>
+  <termino>
+    <etiqueta>Sugerenciaenescuelaocentrodeformacion</etiqueta>
+    <texto>Sugerencia en escuela o centro de formación</texto>
+  </termino>
+  <termino>
+    <etiqueta>BoletindenoticiasAPLITOP</etiqueta>
+    <texto>Boletín de noticias EXPOCRUCEROS</texto>
+  </termino>
+  <termino>
+    <etiqueta>PublicidadEspacios</etiqueta>
+    <texto>Espacios de Publicidad</texto>
+  </termino>
+  <termino>
+    <etiqueta>SolicitarPresupuesto</etiqueta>
+    <texto>Solicitar presupuesto</texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaInformacion</etiqueta>
+    <texto>Si desea que le enviemos más información rellene el siguiente formulario:</texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaComprarProducto</etiqueta>
+    <texto><![CDATA[<b>Si desea comprar el producto rellene el siguiente formulario y nos pondremos en contacto con usted:</b>]]></texto>
+  </termino>  
+  <termino>
+    <etiqueta>SiDeseaDescargar</etiqueta>
+    <texto><![CDATA[Para <b>descargar los archivos</b> rellene el siguiente formulario y le enviaremos un <b>correo con el enlace</b> para su descarga:]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>SiDeseaInformacionProducto</etiqueta>
+    <texto>Si desea que le enviemos más información sobre el producto rellene el siguiente formulario:</texto>
+  </termino>
+  <termino>
+    <etiqueta>IntentandoAcceder</etiqueta>
+    <texto><![CDATA[<h3>Está intentando acceder a una <b>zona restringida</b>.</h3><p>Si es un usuario registrado introduzca sus credenciales.</p>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>AccederSoporte</etiqueta>
+    <texto>Para acceder al área de Soporte, introduzca su nombre de usuario y clave.</texto>
+  </termino>
+  <termino>
+    <etiqueta>IniciarSesion</etiqueta>
+    <texto>Iniciar sesión</texto>
+  </termino>
+  <termino>
+    <etiqueta>Entrar</etiqueta>
+    <texto>Entrar</texto>
+  </termino>
+  <termino>
+    <etiqueta>SiNoEsUsuarioRegistrese</etiqueta>
+    <texto><![CDATA[Si no es un usuario registrado haga clic <a title="Unirse" href="Registro/es">aquí</a> y regístrese.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>OlvidoClave</etiqueta>
+    <texto>¿Olvidó su contraseña?</texto>
+  </termino>
+  <termino>
+    <etiqueta>RecupereClave</etiqueta>
+    <texto>Recupere su clave</texto>
+  </termino>
+  <termino>
+    <etiqueta>Registrarse</etiqueta>
+    <texto><![CDATA[<p>Dese de alta como usuario/a rellenando los siguientes datos y así podrá valorar y opinar sobre los barcos y cruceros.</p><p>Una vez que su petición haya sido registrada recibirá un <b>correo electrónico</b> con instrucciones para confirmar su alta.</p>]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>Registro</etiqueta>
+    <texto>Únase a Expocruceros</texto>
+  </termino>
+  <termino>
+    <etiqueta>AutorizaEnvioInformacion</etiqueta>
+    <texto>Autoriza el envío de información sobre nuestros productos y servicios</texto>
+  </termino>
+  <termino>
+    <etiqueta>Si</etiqueta>
+    <texto>Sí</texto>
+  </termino>
+  <termino>
+    <etiqueta>CrearCuenta</etiqueta>
+    <texto>Crear cuenta</texto>
+  </termino>
+  <termino>
+    <etiqueta>Sugerencias</etiqueta>
+    <texto>Sugerencias</texto>
+  </termino>
+  <termino>
+    <etiqueta>SugerenciasTexto</etiqueta>
+    <texto><![CDATA[¿Quiere proponer mejoras para futuras versiones?<br/><br/>Use esta opción para que sus ideas sean consideradas por el equipo de desarrollo.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>Adjunto</etiqueta>
+    <texto>Adjunto</texto>
+  </termino>
+  <termino>
+    <etiqueta>Incidencias</etiqueta>
+    <texto>Incidencias</texto>
+  </termino>
+  <termino>
+    <etiqueta>IncidenciasTexto</etiqueta>
+    <texto><![CDATA[Si desea que nuestro equipo técnico le resuelva cualquier problema que haya podido tener, rellene el siguiente formulario, comentándonos que le ha ocurrido y como.<br/><br/>Le enviaremos un correo con la solución a su caso. Gracias por confiar en nosotros.]]></texto>
+  </termino>
+  <termino>
+    <etiqueta>Reproduccion</etiqueta>
+    <texto>Reproducción</texto>
+  </termino>
+  <termino>
+    <etiqueta>Version</etiqueta>
+    <texto>Versión</texto>
+  </termino>
+  <termino>
+    <etiqueta>PlataformaEntorno</etiqueta>
+    <texto>Plataforma/Entorno</texto>
+  </termino>
+  <termino>
+    <etiqueta>DejanosMensaje</etiqueta>
+    <texto>Déjenos su mensaje</texto>
+  </termino>
+  <termino>
+    <etiqueta>Responderemos</etiqueta>
+    <texto>Responderemos su mensaje a la mayor brevedad posible.</texto>
+  </termino>
+  <termino>
+    <etiqueta>NivelExperiencia</etiqueta>
+    <texto>Nivel y experiencia</texto>
+  </termino>
+  <termino>
+    <etiqueta>NumeroPersonas</etiqueta>
+    <texto>Nº personas</texto>
+  </termino>
+  <termino>
+    <etiqueta>ServiciosFormacionOnline</etiqueta>
+    <texto>Servicios: Formación - Cursos online</texto>
+  </termino>
+  <termino>
+    <etiqueta>ServiciosFormacionPresencial</etiqueta>
+    <texto>Servicios: Formación - Cursos presenciales</texto>
+  </termino>
+  <termino>
+    <etiqueta>ServiciosFormacionUniversidad</etiqueta>
+    <texto>Servicios: Formación - Universidades y centros de formación</texto>
+  </termino>
+  <termino>
+    <etiqueta>ERRORreCAPTCHA</etiqueta>
+    <texto>ERROR: No ha realizado la verificación reCAPTCHA</texto>
+  </termino>
+  <termino>
+    <etiqueta>LicenciaEvaluacion</etiqueta>
+    <texto>Descargar gratis licencia de evaluación</texto>
+  </termino>
+  <termino>
+    <etiqueta>Marca</etiqueta>
+    <texto>Marca</texto>
+  </termino>
+  <termino>
+    <etiqueta>Modelo</etiqueta>
+    <texto>Modelo</texto>
+  </termino>
+</diccionario>
